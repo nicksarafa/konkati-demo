@@ -18,5 +18,9 @@
 	},
 	"jest": {
 		"preset": "react-native"
-	}
+	},
+	"main": "index.js",
+	"repository": "https://github.com/nsarafa/konkati-demo.git",
+	"author": "nsarafa <nicksarafa@gmail.com>",
+	"license": "MIT"
 }
